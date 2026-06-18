@@ -1,3 +1,18 @@
+# Day16-2A202600549-LeXuanTienDat
+
+## Thông tin học viên
+
+- Mã học viên: 2A202600549
+- Họ tên: Lê Xuân Tiến Đạt
+- Track: AI Product Strategy
+
+## File nộp
+
+- 🎯 [Lab 1 — Case Analysis](./worksheet/01-case-analysis.md) — phân tích "tử huyệt" chiến lược: case **Chegg vs ChatGPT**
+- 🎯 [Lab 2 — JTBD Project Analysis](./worksheet/02-jtbd-project-analysis.md) — soi dự án **StudyMate AI** qua lăng kính Jobs-To-Be-Done
+
+
+
 # Ngày 16 — Student Lab
 
 ## Hôm nay cần làm gì?
